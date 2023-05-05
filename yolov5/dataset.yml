@@ -1,0 +1,9 @@
+
+path: ../Data 
+train: images
+val: images
+
+
+# Classes (80 COCO classes)
+nc: 16
+names: ['awake', 'drowsy' , 'tv', 'car', 'meatballs', 'chicken', 'cat', 'phone', 'pen', 'paper', 'onion soup', 'monitor', 'chair' , 'Frame', 'mouse', 'spects']
